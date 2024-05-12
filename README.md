@@ -7,8 +7,7 @@
 - Experience: Over 18 years in professional software development
 - Goal: Advancing companies on a technical level
 - Applications: Planning new web applications, refactoring processes, extensions, software and app maintenance
-- Important: Clarity and transparent communicationFreelancer · Software Architect and Developer
-- Digital native in the field of web development
+- Important: Clarity and transparent communication
 
 ## &nbsp;
 
